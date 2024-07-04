@@ -15,7 +15,7 @@
 ![Lanna GitHub stats](https://github-readme-stats.vercel.app/api?username=guiciriero&show_icons=true&theme=radical)
 <h4 align="center">
   <br>
- Technologies I'm currently Studying/Developing
+ Technologies I'm currently Studying/Developing:
   <br>
   <br>
 <div style="display: inline_block">
