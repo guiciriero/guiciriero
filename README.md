@@ -7,7 +7,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ciriero/)
 
-![Lanna GitHub stats](https://github-readme-stats.vercel.app/api?username=guiciriero&show_icons=true&theme=radical)
+## Status:
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=moltack)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=moltack&utcOffset=-3)|
+|---|---|
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guiciriero&show_icons=true&theme=radical)
 <h4 align="center">
   <br>
  Technologies I'm currently Studying/Developing:
