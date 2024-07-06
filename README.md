@@ -9,7 +9,7 @@
 
 ## Status:
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=moltack)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=moltack&utcOffset=-3)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guicirieroo&theme=radical)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guiciriero&theme=radical&utcOffset=-3)|
 |---|---|
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guiciriero&show_icons=true&theme=radical)
