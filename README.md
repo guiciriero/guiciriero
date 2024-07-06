@@ -1,8 +1,6 @@
-
-<h1 align="center">
-  <img src="https://c.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif" width="height: 39; position: center;">
-  <br>Hi, there! I'm Guilherme! ️
-</h1>
+<p align="right">
+  <a href="https://readme-typing-svg.demolab.com/?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I%27m+Guilherme+Welcome+to+my+Profile!" /></a>
+</p>
 
 
 
