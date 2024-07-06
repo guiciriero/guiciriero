@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com/?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+%27+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Guilherme Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com/?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Guilherme Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
 #### Hello, my name is Guilherme, I'm a Software Engineering student at Universidade São Francisco and passionate about technology. Currently i'm focused on developing my skills in programming. Currently specializing with a focus on web and back-end development, with language ​​such as JavaScript and HTML/CSS.
