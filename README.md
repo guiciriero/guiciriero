@@ -13,6 +13,8 @@
 |---|---|
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guiciriero&show_icons=true&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiciriero&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guiciriero&theme=radical)
 <h4 align="center">
   <br>
  Technologies I'm currently Studying/Developing:
